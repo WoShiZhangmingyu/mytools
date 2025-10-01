@@ -1,4 +1,15 @@
-# mytools
+# mytools - URL编码解码工具
+
+在线URL编码解码工具，支持中文和特殊字符的编码解码。
+
+## 功能特点
+- URL编码（encodeURIComponent）
+- URL解码（decodeURIComponent）
+- 一键复制结果
+- 响应式设计，支持手机使用
+
+## 在线访问
+https://woshizhangmingyu.github.io/mytools/
 
 This template should help get you started developing with Vue 3 in Vite.
 
